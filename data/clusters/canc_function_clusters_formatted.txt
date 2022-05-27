@@ -1,0 +1,127 @@
+family	clusterID
+Central carbohydrate metabolism	0
+Monosaccharides	0
+Flagellar motility in Prokaryota	0
+One-carbon Metabolism	0
+Thiamin biosynthesis	0
+Peptidoglycan Biosynthesis	0
+Osmotic stress	0
+Bacterial Chemotaxis	0
+Organic acids	0
+Protein and nucleoprotein secretion system, Type IV	0
+Protein processing and modification	0
+NAD and NADP	0
+Protein secretion system, Type II	0
+Nitrate and nitrite ammonification	0
+Stress general 	0
+Two cell division clusters relating to chromosome partitioning	0
+Murein Hydrolases	0
+Stress- Flavohaemoglobin	0
+Hemin trasport	0
+Thioredoxin-disulfide reductase	0
+Tricarboxylate transport system	0
+DNA recombination	0
+Metabolism of central aromatic intermediates	1
+DNA repair	1
+Alanine, serine, and glycine	1
+Oxidative stress	1
+Peripheral pathways for catabolism of aromatic compounds	1
+Branched-chain amino acids	1
+Protein degradation	1
+Organic sulfur assimilation	1
+DNA replication	1
+Histidine Metabolism	1
+Purines	1
+cell wall general	1
+Riboflavin, FMN, FAD	1
+Phosphate metabolism	1
+Selenoproteins	1
+Proline and 4-hydroxyproline	1
+Aromatic amino acids and derivatives	1
+Macromolecular synthesis operon	1
+RNA processing and modification	2
+Fe-S clusters	2
+Type III, Type IV, Type VI, ESAT secretion systems	2
+Metabolite repair	2
+Isoprenoids	2
+Lyases	2
+Fatty acids	2
+Ammonia assimilation	2
+Folate and pterines	2
+Polyhydroxybutyrate metabolism	2
+Sugar alcohols	2
+Broadly distributed proteins not in subsystems	2
+Respiration general	2
+Siderophores	2
+Virulence	3
+Quinone cofactors	3
+Lysine, threonine, methionine, and cysteine	3
+Liagases carbon-carbon bonds 	3
+Ribonucleotide reduction	3
+Glutathione-regulated potassium-efflux system 	3
+stress- hemoglobins	3
+stress - carbon starvation	3
+Orphan regulatory proteins	3
+Programmed Cell Death and Toxin-antitoxin Systems	3
+Liagases	3
+Triacylglycerols	3
+Ton and tol transport	4
+Respiration-Biogenesis	4
+Social motility and nonflagellar swimming in bacteria	4
+Resistance to antibiotics	4
+Periplasmic Stress	4
+ABC transporters	4
+Tetrapyrroles	4
+CO2 fixation	4
+Formate hydrogenase	4
+Arginine; urea cycle, polyamines	4
+Capsular and extracellular polysacchrides	4
+Glutamine, glutamate, aspartate, asparagine; ammonia assimilation	5
+Coenzyme A	5
+Heat shock	5
+Iron transport	5
+Pyridoxine	5
+Uni- Sym- and Antiporters	5
+RNA metabolism	5
+Lipoic acid	5
+Protein secretion system, Type VI	5
+Pyrimidines	5
+Transposable elements	6
+Bacteriocins, ribosomally synthesized antibacterial peptides	6
+DNA uptake, competence	6
+Polysaccharides	6
+Di- and oligosaccharides	6
+Phages, Prophages	6
+DNA general	6
+sulfur general	6
+Gram-Positive cell wall components	6
+Detoxification	6
+DMSP associated	7
+Phosphate transporter, PHO regulon	7
+Aminosugars	7
+DNA-binding regulatory proteins, strays	7
+Electron accepting reactions	7
+Regulation and Cell signaling	7
+Restriction-Modification System	7
+Protein biosynthesis	8
+Biotin	8
+Electron donating reactions	8
+Transcription	8
+TCA Cycle	8
+ATP synthases	8
+Gram-Negative cell wall components	9
+Transcriptional regulation	9
+General Carbohydrate	9
+Nucleosides general	9
+Aromatic general 	9
+Iron acquition	10
+Resistance to toxic compounds	10
+Molybdopterin	10
+Denitrification	11
+Fermentation	11
+Potassium homeostasis	12
+Protein folding	13
+Phospholipids	14
+Bacterial Cytoskeleton	15
+Inorganic sulfur assimilation	16
+Transport of metals	17

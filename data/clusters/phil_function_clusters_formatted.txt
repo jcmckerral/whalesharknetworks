@@ -1,0 +1,142 @@
+family	clusterID
+Flavohaemoglobin	0
+RNA processing and modification	0
+Organic sulfur assimilation	0
+Heat shock	0
+Transcription	0
+Pyridoxine	0
+Metabolism of central aromatic intermediates	0
+Histidine Metabolism	0
+Lyases	0
+Peripheral pathways for catabolism of aromatic compounds	0
+stress - carbon starvation	0
+Broadly distributed proteins not in subsystems	0
+Electron donating reactions	0
+Protein processing and modification	0
+DNA recombination	0
+Murein Hydrolases	0
+Phosphate transporter, PHO regulon	0
+DMSP associated	0
+Selenoproteins	1
+Type III, Type IV, Type VI, ESAT secretion systems	1
+Ergothioneine Cyano	1
+Transposable elements	1
+Transcriptional regulation	1
+sulfur general	1
+Gram-Negative cell wall components	1
+Peptidoglycan Biosynthesis	1
+Uni- Sym- and Antiporters	1
+Isoprenoids	1
+stress- hemoglobins	1
+Inorganic sulfur assimilation	1
+Protein and nucleoprotein secretion system, Type IV	1
+Respiration general	1
+DNA general	1
+Molybdopterin 	1
+Liagases	1
+Protein translocation across cytoplasmic membrane	1
+Ton and Tol transport systems	2
+Macromolecular synthesis operon	2
+Nitrosative stress	2
+General Carbohydrate	2
+DNA replication	2
+Hemin trasport	2
+Bacterial Cytoskeleton	2
+Nucleosides general	2
+Regulation and Cell signaling	2
+Electron accepting reactions	2
+Aromatic general 	2
+Aminosugars	2
+DNA-binding regulatory proteins, strays	2
+Proline and 4-hydroxyproline	2
+One-carbon Metabolism	2
+Phage family-specific subsystems	2
+Pathogenicity islands	2
+Iron transport	2
+Protein biosynthesis	3
+Detoxification	3
+Persister Cells	3
+Virulence	3
+ATP synthases	3
+Coenzyme A	3
+Dissimilatory nitrite reductase	3
+Glutamine, glutamate, aspartate, asparagine; ammonia assimilation	3
+Respiration-Biogenesis	3
+Amino acid racemase	3
+Alanine, serine, and glycine	3
+Orphan regulatory proteins	3
+Lipoic acid	3
+Capsular and extracellular polysacchrides	3
+Triacylglycerols	3
+TCA Cycle	3
+Pyrimidines	3
+Thiamin biosynthesis	4
+Resistance to toxic compounds	4
+Cold shock	4
+Spore	4
+Lysine, threonine, methionine, and cysteine	4
+Central carbohydrate metabolism	4
+Protein folding	4
+Stress general 	4
+Ribonucleotide reduction	4
+Purines	4
+General Stress Response and Stationary Phase Response	4
+DNA uptake, competence	4
+cell wall general	4
+Denitrification	4
+Aromatic amino acids and derivatives	4
+Programmed Cell Death and Toxin-antitoxin Systems	5
+CO2 fixation	5
+Osmotic stress	5
+Branched-chain amino acids	5
+Phospholipids	5
+Cyanate hydrolysis	5
+Oxidative stress	5
+Protein degradation	5
+Fermentation	5
+Ammonia assimilation	5
+Bacteriocins, ribosomally synthesized antibacterial peptides	5
+Sugar alcohols	5
+Transport of metals	5
+Glutathione-regulated potassium-efflux system and associated functions	5
+Quinone cofactors	6
+Anaerobic degradation of aromatic compounds	6
+Tetrapyrroles	6
+Phages, Prophages	6
+Organic acids	6
+Social motility and nonflagellar swimming in bacteria	6
+Restriction-Modification System	6
+Gram-Positive cell wall components	6
+Di- and oligosaccharides	6
+Two cell division clusters relating to chromosome partitioning	6
+Protein secretion system, Type II	6
+NAD and NADP	6
+Periplasmic Stress	7
+Invasion and intracellular resistance	7
+Fe-S clusters	7
+Protein secretion system, Type VI	7
+Flagellar motility in Prokaryota	7
+Arginine; urea cycle, polyamines	7
+Bacterial Chemotaxis	7
+Phosphate metabolism	7
+Nitrate and nitrite ammonification	7
+Ligases 	8
+Nitrogen Metabolism in Aspergillus nidulans	8
+Thioredoxin-disulfide reductase	8
+Fatty acids	8
+Polysaccharides	8
+Polyhydroxybutyrate metabolism	8
+Folate and pterines	8
+Biotin	8
+Creatine and Creatinine Degradation	9
+Potassium homeostasis	9
+Resistance to antibiotics	9
+ABC transporters	9
+Formate hydrogenase	9
+Riboflavin, FMN, FAD	10
+Alkylphosphonate utilization	10
+DNA repair	10
+Metabolite repair	10
+Monosaccharides	11
+Iron acquition	12
+Siderophores	13

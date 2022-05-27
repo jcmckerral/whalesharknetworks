@@ -1,0 +1,1176 @@
+"","Subsystem.Level.2","location","mean.loc.abund"
+"1","Amino acid racemase","Cancun",0.00058756378678504
+"2","Amino acid racemase","Lapaz",0.000437573581198699
+"3","Amino acid racemase","Ningaloo",0.000467543914858041
+"4","Amino acid racemase","Philippines",0.000558026468732316
+"5","Amino acid racemase","Tanzania",0.000429470548247441
+"6","Creatine and Creatinine Degradation","Cancun",0.000505064693415905
+"7","Creatine and Creatinine Degradation","Lapaz",0.00204717894944161
+"8","Creatine and Creatinine Degradation","Ningaloo",0.00260928086711854
+"9","Creatine and Creatinine Degradation","Philippines",0.000641407857597312
+"10","Creatine and Creatinine Degradation","Tanzania",0.00105965902108363
+"11","Alanine, serine, and glycine","Cancun",0.00706063506871462
+"12","Alanine, serine, and glycine","Lapaz",0.00814624463018455
+"13","Alanine, serine, and glycine","Ningaloo",0.00870354664458989
+"14","Alanine, serine, and glycine","Philippines",0.00688452694112769
+"15","Alanine, serine, and glycine","Tanzania",0.00771603593659536
+"16","Arginine; urea cycle, polyamines","Cancun",0.0146923135211841
+"17","Arginine; urea cycle, polyamines","Lapaz",0.0145520066874
+"18","Arginine; urea cycle, polyamines","Ningaloo",0.0160264027204833
+"19","Arginine; urea cycle, polyamines","Philippines",0.0148596260510659
+"20","Arginine; urea cycle, polyamines","Tanzania",0.0161803222791314
+"21","Aromatic amino acids and derivatives","Cancun",0.0109395315663736
+"22","Aromatic amino acids and derivatives","Lapaz",0.0125951679313668
+"23","Aromatic amino acids and derivatives","Ningaloo",0.013108394746783
+"24","Aromatic amino acids and derivatives","Philippines",0.011922035097955
+"25","Aromatic amino acids and derivatives","Tanzania",0.0121025474449407
+"26","Branched-chain amino acids","Cancun",0.0185606402148607
+"27","Branched-chain amino acids","Lapaz",0.0196401622879992
+"28","Branched-chain amino acids","Ningaloo",0.0204590882552442
+"29","Branched-chain amino acids","Philippines",0.019783418961344
+"30","Branched-chain amino acids","Tanzania",0.0203165018253475
+"31","Glutamine, glutamate, aspartate, asparagine; ammonia assimilation","Cancun",0.00860718596021079
+"32","Glutamine, glutamate, aspartate, asparagine; ammonia assimilation","Lapaz",0.00884636638406209
+"33","Glutamine, glutamate, aspartate, asparagine; ammonia assimilation","Ningaloo",0.00879407524342643
+"34","Glutamine, glutamate, aspartate, asparagine; ammonia assimilation","Philippines",0.00898239345445205
+"35","Glutamine, glutamate, aspartate, asparagine; ammonia assimilation","Tanzania",0.00877086648429757
+"36","Histidine Metabolism","Cancun",0.00644352791736355
+"37","Histidine Metabolism","Lapaz",0.0067828870603512
+"38","Histidine Metabolism","Ningaloo",0.00762947310631765
+"39","Histidine Metabolism","Philippines",0.00733310134128825
+"40","Histidine Metabolism","Tanzania",0.00699152126425095
+"41","Lysine, threonine, methionine, and cysteine","Cancun",0.0311919130617161
+"42","Lysine, threonine, methionine, and cysteine","Lapaz",0.0331898494910228
+"43","Lysine, threonine, methionine, and cysteine","Ningaloo",0.0324948753162274
+"44","Lysine, threonine, methionine, and cysteine","Philippines",0.0328412407953688
+"45","Lysine, threonine, methionine, and cysteine","Tanzania",0.0325658564690425
+"46","Proline and 4-hydroxyproline","Cancun",0.00560370551595574
+"47","Proline and 4-hydroxyproline","Lapaz",0.00496398694401818
+"48","Proline and 4-hydroxyproline","Ningaloo",0.00409990660806193
+"49","Proline and 4-hydroxyproline","Philippines",0.00552063775529293
+"50","Proline and 4-hydroxyproline","Tanzania",0.00541223157276375
+"51","General Carbohydrate","Cancun",0.00158086183305922
+"52","General Carbohydrate","Lapaz",0.00138600780579869
+"53","General Carbohydrate","Ningaloo",0.00115819141204719
+"54","General Carbohydrate","Philippines",0.00173196493554023
+"55","General Carbohydrate","Tanzania",0.00169925973592565
+"56","Putative sugar transporters","Cancun",0.000404702666122269
+"57","Putative sugar transporters","Lapaz",0.000530111982065075
+"58","Putative sugar transporters","Ningaloo",0.00035359672419561
+"59","Putative sugar transporters","Philippines",0.000600882635212322
+"60","Putative sugar transporters","Tanzania",0.000368286330097115
+"61","Lacto-N-Biose I and Galacto-N-Biose Metabolic Pathway","Cancun",0.000138214010071316
+"62","Lacto-N-Biose I and Galacto-N-Biose Metabolic Pathway","Lapaz",0.000223685230544513
+"63","Lacto-N-Biose I and Galacto-N-Biose Metabolic Pathway","Ningaloo",0
+"64","Lacto-N-Biose I and Galacto-N-Biose Metabolic Pathway","Philippines",0
+"65","Lacto-N-Biose I and Galacto-N-Biose Metabolic Pathway","Tanzania",0
+"66","Sugar utilization","Cancun",4.8622650424301e-05
+"67","Sugar utilization","Lapaz",4.56231295039273e-06
+"68","Sugar utilization","Ningaloo",4.09989476625941e-05
+"69","Sugar utilization","Philippines",7.59944151134557e-06
+"70","Sugar utilization","Tanzania",1.21541588024284e-05
+"71","Aminosugars","Cancun",0.00216578596648561
+"72","Aminosugars","Lapaz",0.0018812329329344
+"73","Aminosugars","Ningaloo",0.00170310114097583
+"74","Aminosugars","Philippines",0.0027360470057908
+"75","Aminosugars","Tanzania",0.00212611825703687
+"76","CO2 fixation","Cancun",0.00304478376131341
+"77","CO2 fixation","Lapaz",0.00384901773836999
+"78","CO2 fixation","Ningaloo",0.00801745151830629
+"79","CO2 fixation","Philippines",0.00418924066155108
+"80","CO2 fixation","Tanzania",0.00393114637111612
+"81","Central carbohydrate metabolism","Cancun",0.0311846737686295
+"82","Central carbohydrate metabolism","Lapaz",0.0359670353919516
+"83","Central carbohydrate metabolism","Ningaloo",0.0373536317380911
+"84","Central carbohydrate metabolism","Philippines",0.0326680375445873
+"85","Central carbohydrate metabolism","Tanzania",0.0333693553306152
+"86","TCA Cycle","Cancun",0.00925010014929418
+"87","TCA Cycle","Lapaz",0.0120309599850908
+"88","TCA Cycle","Ningaloo",0.0117232856976529
+"89","TCA Cycle","Philippines",0.00964232611950318
+"90","TCA Cycle","Tanzania",0.0110019981168413
+"91","Di- and oligosaccharides","Cancun",0.0172074601937589
+"92","Di- and oligosaccharides","Lapaz",0.0116218591486914
+"93","Di- and oligosaccharides","Ningaloo",0.0124113926817158
+"94","Di- and oligosaccharides","Philippines",0.0129561665403629
+"95","Di- and oligosaccharides","Tanzania",0.0120729018648503
+"96","Fermentation","Cancun",0.00733407095758172
+"97","Fermentation","Lapaz",0.00721677409099217
+"98","Fermentation","Ningaloo",0.00634596541402675
+"99","Fermentation","Philippines",0.00637655873476363
+"100","Fermentation","Tanzania",0.00716538434961513
+"101","Monosaccharides","Cancun",0.0216651152442728
+"102","Monosaccharides","Lapaz",0.014663651710141
+"103","Monosaccharides","Ningaloo",0.0119126701831869
+"104","Monosaccharides","Philippines",0.0163841703132767
+"105","Monosaccharides","Tanzania",0.014064972720692
+"106","One-carbon Metabolism","Cancun",0.00920795470346174
+"107","One-carbon Metabolism","Lapaz",0.00879809144557265
+"108","One-carbon Metabolism","Ningaloo",0.00862922539386804
+"109","One-carbon Metabolism","Philippines",0.00990663746838106
+"110","One-carbon Metabolism","Tanzania",0.00889704616775619
+"111","Organic acids","Cancun",0.00700585641635974
+"112","Organic acids","Lapaz",0.00729519256957805
+"113","Organic acids","Ningaloo",0.00744991436201152
+"114","Organic acids","Philippines",0.00593361439370681
+"115","Organic acids","Tanzania",0.007349587617228
+"116","Polysaccharides","Cancun",0.00598666515693988
+"117","Polysaccharides","Lapaz",0.00280164694621912
+"118","Polysaccharides","Ningaloo",0.00301502312924684
+"119","Polysaccharides","Philippines",0.00332718428345462
+"120","Polysaccharides","Tanzania",0.00316558456362522
+"121","Sugar alcohols","Cancun",0.00563806310910852
+"122","Sugar alcohols","Lapaz",0.00635820680150742
+"123","Sugar alcohols","Ningaloo",0.00593728000214834
+"124","Sugar alcohols","Philippines",0.00527682428033733
+"125","Sugar alcohols","Tanzania",0.00647176639682745
+"126","Cell division","Cancun",0.000339502440460343
+"127","Cell division","Lapaz",0.0016818852699983
+"128","Cell division","Ningaloo",0.00769759408711077
+"129","Cell division","Philippines",0.000389545111176839
+"130","Cell division","Tanzania",0.000365586213314515
+"131","Bacterial Cytoskeleton","Cancun",0.00342388349673348
+"132","Bacterial Cytoskeleton","Lapaz",0.00376704372950318
+"133","Bacterial Cytoskeleton","Ningaloo",0.00354032065634051
+"134","Bacterial Cytoskeleton","Philippines",0.00305960748989956
+"135","Bacterial Cytoskeleton","Tanzania",0.00333410238214305
+"136","Macromolecular synthesis operon","Cancun",0.00225785687291461
+"137","Macromolecular synthesis operon","Lapaz",0.00280076506464681
+"138","Macromolecular synthesis operon","Ningaloo",0.00325908753049649
+"139","Macromolecular synthesis operon","Philippines",0.00198914601836875
+"140","Macromolecular synthesis operon","Tanzania",0.00242850554582793
+"141","Two Cell division clusters relating to chromosome partitioning","Cancun",0.00244521076409514
+"142","Two Cell division clusters relating to chromosome partitioning","Lapaz",0.00358712467209321
+"143","Two Cell division clusters relating to chromosome partitioning","Ningaloo",0.00388452570551616
+"144","Two Cell division clusters relating to chromosome partitioning","Philippines",0.00265085885209477
+"145","Two Cell division clusters relating to chromosome partitioning","Tanzania",0.00310792924650429
+"146","Murein Hydrolases","Cancun",0.00230243417248139
+"147","Murein Hydrolases","Lapaz",0.00230019587239331
+"148","Murein Hydrolases","Ningaloo",0.00188152546697068
+"149","Murein Hydrolases","Philippines",0.00254075556897004
+"150","Murein Hydrolases","Tanzania",0
+"151","Peptidoglycan Biosynthesis","Cancun",0.00860468737760054
+"152","Peptidoglycan Biosynthesis","Lapaz",0.0104481512974043
+"153","Peptidoglycan Biosynthesis","Ningaloo",0.00889098659919428
+"154","Peptidoglycan Biosynthesis","Philippines",0.00974961895573067
+"155","Peptidoglycan Biosynthesis","Tanzania",0
+"156","Cell wall general","Cancun",0.005967500816115
+"157","Cell wall general","Lapaz",0.0066318553450343
+"158","Cell wall general","Ningaloo",1.7006190640269e-06
+"159","Cell wall general","Philippines",0.00624449587929755
+"160","Cell wall general","Tanzania",0.00818863726691719
+"161","Capsular and extracellular polysacchrides","Cancun",0.0130490036769109
+"162","Capsular and extracellular polysacchrides","Lapaz",0.0131022987487477
+"163","Capsular and extracellular polysacchrides","Ningaloo",0.0141331132200424
+"164","Capsular and extracellular polysacchrides","Philippines",0.0129751576940457
+"165","Capsular and extracellular polysacchrides","Tanzania",0.0139766006256703
+"166","Gram-Negative cell wall components","Cancun",0.0194169980899557
+"167","Gram-Negative cell wall components","Lapaz",0.0179990063254011
+"168","Gram-Negative cell wall components","Ningaloo",0.0152091090050998
+"169","Gram-Negative cell wall components","Philippines",0.0172528279173597
+"170","Gram-Negative cell wall components","Tanzania",0.0193749416416025
+"171","Gram-Positive cell wall components","Cancun",0.000845315952746454
+"172","Gram-Positive cell wall components","Lapaz",0.000738894142664038
+"173","Gram-Positive cell wall components","Ningaloo",0.000590352999223335
+"174","Gram-Positive cell wall components","Philippines",0.000988422565036459
+"175","Gram-Positive cell wall components","Tanzania",0.000768318749538291
+"176","Ligases","Cancun",0.00433763599071671
+"177","Ligases","Lapaz",0.0057877479691304
+"178","Ligases","Ningaloo",0.00537309089163879
+"179","Ligases","Philippines",0.00476292259413423
+"180","Ligases","Tanzania",0.00493595183204426
+"181","Thiamin biosynthesis","Cancun",0.00947441646765242
+"182","Thiamin biosynthesis","Lapaz",0.0101674758674971
+"183","Thiamin biosynthesis","Ningaloo",0.00998086600676433
+"184","Thiamin biosynthesis","Philippines",0.00922741689120898
+"185","Thiamin biosynthesis","Tanzania",0.00608486070686429
+"186","Ergothioneine Cyano","Cancun",0.000604628813445112
+"187","Ergothioneine Cyano","Lapaz",0.000409321603897711
+"188","Ergothioneine Cyano","Ningaloo",0
+"189","Ergothioneine Cyano","Philippines",0.000526416915265513
+"190","Ergothioneine Cyano","Tanzania",0.000411658417961627
+"191","General cofactors","Cancun",1.86665004252544e-05
+"192","General cofactors","Lapaz",0.000703997903717263
+"193","General cofactors","Ningaloo",0
+"194","General cofactors","Philippines",7.02417731473862e-05
+"195","General cofactors","Tanzania",0.00339895398765152
+"196","Molybdopterin","Cancun",0.000999340262861776
+"197","Molybdopterin","Lapaz",0
+"198","Molybdopterin","Ningaloo",0.000322331378222762
+"199","Molybdopterin","Philippines",0.000969659874915515
+"200","Molybdopterin","Tanzania",0.0005330175304776
+"201","Biotin","Cancun",0.00811684253543885
+"202","Biotin","Lapaz",0.00797369845150476
+"203","Biotin","Ningaloo",0.00715788664500016
+"204","Biotin","Philippines",0.00933131134537445
+"205","Biotin","Tanzania",0.00799919197541015
+"206","Coenzyme A","Cancun",0.00457826360109054
+"207","Coenzyme A","Lapaz",0.00484929840569615
+"208","Coenzyme A","Ningaloo",0.00552018390732496
+"209","Coenzyme A","Philippines",0.00441180952567543
+"210","Coenzyme A","Tanzania",0.00433518622932585
+"211","Fe-S clusters","Cancun",0.00197134992757876
+"212","Fe-S clusters","Lapaz",0.00179590299046228
+"213","Fe-S clusters","Ningaloo",0.00230928328672227
+"214","Fe-S clusters","Philippines",0.00169336899909454
+"215","Fe-S clusters","Tanzania",0.00188886863709125
+"216","Folate and pterines","Cancun",0.0177728315631756
+"217","Folate and pterines","Lapaz",0.0164051099722046
+"218","Folate and pterines","Ningaloo",0.0181140149027886
+"219","Folate and pterines","Philippines",0.0149046811642762
+"220","Folate and pterines","Tanzania",0.0159392053729551
+"221","Lipoic acid","Cancun",0.00517056269976083
+"222","Lipoic acid","Lapaz",0.00557904154533514
+"223","Lipoic acid","Ningaloo",0.00636590072958376
+"224","Lipoic acid","Philippines",0.00576326419943508
+"225","Lipoic acid","Tanzania",0.00570858396096968
+"226","NAD and NADP","Cancun",0.00483499452060728
+"227","NAD and NADP","Lapaz",0.00448334828708757
+"228","NAD and NADP","Ningaloo",0.00436777406420416
+"229","NAD and NADP","Philippines",0.00500875496737983
+"230","NAD and NADP","Tanzania",0.00409977377931621
+"231","Pyridoxine","Cancun",0.0036896908135422
+"232","Pyridoxine","Lapaz",0.00400215161483456
+"233","Pyridoxine","Ningaloo",0.00415859992192071
+"234","Pyridoxine","Philippines",0.00406450428849342
+"235","Pyridoxine","Tanzania",0.00406901195900052
+"236","Quinone cofactors","Cancun",0.00846238271206597
+"237","Quinone cofactors","Lapaz",0.00850507591635566
+"238","Quinone cofactors","Ningaloo",0.00891338142709706
+"239","Quinone cofactors","Philippines",0.00752023652958034
+"240","Quinone cofactors","Tanzania",0.0080699985338868
+"241","Riboflavin, FMN, FAD","Cancun",0.00597755600339873
+"242","Riboflavin, FMN, FAD","Lapaz",0.00564177776678225
+"243","Riboflavin, FMN, FAD","Ningaloo",0.00579076095550276
+"244","Riboflavin, FMN, FAD","Philippines",0.00561426709493977
+"245","Riboflavin, FMN, FAD","Tanzania",0.00559133621659154
+"246","Tetrapyrroles","Cancun",0.00295705981909085
+"247","Tetrapyrroles","Lapaz",0.00458304611109701
+"248","Tetrapyrroles","Ningaloo",0.00875766148439242
+"249","Tetrapyrroles","Philippines",0.00370673821363232
+"250","Tetrapyrroles","Tanzania",0.00426050849982928
+"251","DNA general","Cancun",0.000948932071454958
+"252","DNA general","Lapaz",0.000895474138185065
+"253","DNA general","Ningaloo",0.000940701221211725
+"254","DNA general","Philippines",0.000843199953926718
+"255","DNA general","Tanzania",0.00109546678716815
+"256","Restriction modification system","Cancun",0.00514122963842392
+"257","Restriction modification system","Lapaz",0.00590244766476698
+"258","Restriction modification system","Ningaloo",0.0030651622446561
+"259","Restriction modification system","Philippines",0.00579729771404813
+"260","Restriction modification system","Tanzania",0.00618326629079646
+"261","CRISPs","Cancun",0.000344831439370924
+"262","CRISPs","Lapaz",0.000461649733623594
+"263","CRISPs","Ningaloo",7.85230341084847e-05
+"264","CRISPs","Philippines",0.000162673661445279
+"265","CRISPs","Tanzania",0.000250733590172148
+"266","DNA recombination","Cancun",0.000802140248521902
+"267","DNA recombination","Lapaz",0.000843070265101029
+"268","DNA recombination","Ningaloo",0.000849131752389948
+"269","DNA recombination","Philippines",0.000899185550712704
+"270","DNA recombination","Tanzania",0.000933197196753457
+"271","DNA repair","Cancun",0.0332205065644661
+"272","DNA repair","Lapaz",0.032917737902152
+"273","DNA repair","Ningaloo",0.0341048289625189
+"274","DNA repair","Philippines",0.0334631033003887
+"275","DNA repair","Tanzania",0.034052662528491
+"276","DNA replication","Cancun",0.0175841579623397
+"277","DNA replication","Lapaz",0.0163725356516386
+"278","DNA replication","Ningaloo",0.0168010343855553
+"279","DNA replication","Philippines",0.0165852971400305
+"280","DNA replication","Tanzania",0.0174498149813934
+"281","DNA uptake, competence","Cancun",0.00126927988365528
+"282","DNA uptake, competence","Lapaz",0.00143141745172046
+"283","DNA uptake, competence","Ningaloo",0.00166624530912812
+"284","DNA uptake, competence","Philippines",0.00141808008088451
+"285","DNA uptake, competence","Tanzania",0.00156588221012774
+"286","Dormancy","Cancun",7.68037111941538e-06
+"287","Dormancy","Lapaz",5.58097801319027e-06
+"288","Dormancy","Ningaloo",0.000161591700229287
+"289","Dormancy","Philippines",1.75245960556681e-05
+"290","Dormancy","Tanzania",0
+"291","Persister cells","Cancun",0.000739229245357653
+"292","Persister cells","Lapaz",0.000145276000769571
+"293","Persister cells","Ningaloo",0.000515542827289307
+"294","Persister cells","Philippines",0.000595032093611918
+"295","Persister cells","Tanzania",0.000663680548064879
+"296","Spore","Cancun",0.000753963935455109
+"297","Spore","Lapaz",0.00129566100830084
+"298","Spore","Ningaloo",0.000606075708605746
+"299","Spore","Philippines",0.000727029166615098
+"300","Spore","Tanzania",0.000820280123093848
+"301","Fatty acids general","Cancun",0.0181624628847138
+"302","Fatty acids general","Lapaz",0.0206668305207485
+"303","Fatty acids general","Ningaloo",0.0175523647151828
+"304","Fatty acids general","Philippines",0.0204474319347548
+"305","Fatty acids general","Tanzania",0.0183678331743528
+"306","Polyhydroxybutyrate metabolism","Cancun",0.00269533626138931
+"307","Polyhydroxybutyrate metabolism","Lapaz",0.00270463586016277
+"308","Polyhydroxybutyrate metabolism","Ningaloo",0.00204652614790992
+"309","Polyhydroxybutyrate metabolism","Philippines",0.00335437618820928
+"310","Polyhydroxybutyrate metabolism","Tanzania",0.00286718908891098
+"311","Isoprenoids","Cancun",0.00507064674668587
+"312","Isoprenoids","Lapaz",0.00640448649561509
+"313","Isoprenoids","Ningaloo",0.00839770248665283
+"314","Isoprenoids","Philippines",0.0064974985136595
+"315","Isoprenoids","Tanzania",0.00576751327357464
+"316","Phospholipids","Cancun",0.00686586742029045
+"317","Phospholipids","Lapaz",0.00673829324000964
+"318","Phospholipids","Ningaloo",0.0065274479551241
+"319","Phospholipids","Philippines",0.00690634021493213
+"320","Phospholipids","Tanzania",0.00706475457467427
+"321","Triacylglycerols","Cancun",0.000914385487513723
+"322","Triacylglycerols","Lapaz",0.000787870781968979
+"323","Triacylglycerols","Ningaloo",0.000602377076699636
+"324","Triacylglycerols","Philippines",0.000815757335208456
+"325","Triacylglycerols","Tanzania",0.000846979655489332
+"326","Iron transport","Cancun",0.00183917052117463
+"327","Iron transport","Lapaz",0.00115565612003567
+"328","Iron transport","Ningaloo",0.00223261453718165
+"329","Iron transport","Philippines",0.00238874419363389
+"330","Iron transport","Tanzania",0.00120889954898181
+"331","Hemin transport","Cancun",0.00208579674023124
+"332","Hemin transport","Lapaz",0.000254916586470387
+"333","Hemin transport","Ningaloo",0.001203380744766
+"334","Hemin transport","Philippines",0.00162408404725637
+"335","Hemin transport","Tanzania",0
+"336","Iron acquisition","Cancun",0.00292544516091197
+"337","Iron acquisition","Lapaz",0.00436186930540605
+"338","Iron acquisition","Ningaloo",0.00233741769636547
+"339","Iron acquisition","Philippines",0.00288702342260347
+"340","Iron acquisition","Tanzania",0
+"341","Siderophores","Cancun",0.00201432564299659
+"342","Siderophores","Lapaz",0.00178659044446444
+"343","Siderophores","Ningaloo",0.000569013346973413
+"344","Siderophores","Philippines",0.0016234777191017
+"345","Siderophores","Tanzania",0.00171334836802092
+"346","Membrane transport general","Cancun",7.28220563190899e-05
+"347","Membrane transport general","Lapaz",5.48264973152684e-05
+"348","Membrane transport general","Ningaloo",4.06974982081094e-05
+"349","Membrane transport general","Philippines",8.38405840935919e-05
+"350","Membrane transport general","Tanzania",5.60653389008954e-05
+"351","ECF class transporters","Cancun",2.40407011646099e-05
+"352","ECF class transporters","Lapaz",2.01952868937452e-05
+"353","ECF class transporters","Ningaloo",1.15191576837383e-05
+"354","ECF class transporters","Philippines",1.42092480726901e-05
+"355","ECF class transporters","Tanzania",3.86167079409933e-05
+"356","Ton and tol transporters","Cancun",0.0402917515071136
+"357","Ton and tol transporters","Lapaz",0.0320533743907688
+"358","Ton and tol transporters","Ningaloo",0.0242783824658975
+"359","Ton and tol transporters","Philippines",0.0388789148560222
+"360","Ton and tol transporters","Tanzania",0.0289741047676996
+"361","Transport of metals","Cancun",0.00206972742695803
+"362","Transport of metals","Lapaz",0.00226790144822294
+"363","Transport of metals","Ningaloo",0.00176084679494822
+"364","Transport of metals","Philippines",0.00245343973095367
+"365","Transport of metals","Tanzania",0.00187073639444055
+"366","Tricarboxylate transport system","Cancun",0.000935622152049186
+"367","Tricarboxylate transport system","Lapaz",0.00177188571238157
+"368","Tricarboxylate transport system","Ningaloo",0.00139616630410393
+"369","Tricarboxylate transport system","Philippines",0
+"370","Tricarboxylate transport system","Tanzania",0.00142657831689339
+"371","ABC transporters","Cancun",0.00648774691621854
+"372","ABC transporters","Lapaz",0.0090822766218544
+"373","ABC transporters","Ningaloo",0.0092417251968948
+"374","ABC transporters","Philippines",0.00638924988137073
+"375","ABC transporters","Tanzania",0.0100281190631641
+"376","Protein and nucleoprotein secretion system, Type IV","Cancun",0.00573624830910238
+"377","Protein and nucleoprotein secretion system, Type IV","Lapaz",0.00486170863030568
+"378","Protein and nucleoprotein secretion system, Type IV","Ningaloo",0.00497871963043983
+"379","Protein and nucleoprotein secretion system, Type IV","Philippines",0.00571217493997279
+"380","Protein and nucleoprotein secretion system, Type IV","Tanzania",0.00631347385182897
+"381","Protein secretion system, Chaperone-Usher pathway (CU)","Cancun",1.38378273445254e-06
+"382","Protein secretion system, Chaperone-Usher pathway (CU)","Lapaz",0.000122605832916855
+"383","Protein secretion system, Chaperone-Usher pathway (CU)","Ningaloo",6.17285031304773e-07
+"384","Protein secretion system, Chaperone-Usher pathway (CU)","Philippines",5.62906030128717e-06
+"385","Protein secretion system, Chaperone-Usher pathway (CU)","Tanzania",0
+"386","Protein secretion system, Type II","Cancun",0.00479346086638779
+"387","Protein secretion system, Type II","Lapaz",0.00352007217094514
+"388","Protein secretion system, Type II","Ningaloo",0.00355914068363535
+"389","Protein secretion system, Type II","Philippines",0.00510635431158002
+"390","Protein secretion system, Type II","Tanzania",0.00461706451115052
+"391","Protein secretion system, Type III","Cancun",4.39065054969678e-05
+"392","Protein secretion system, Type III","Lapaz",3.32649333049186e-05
+"393","Protein secretion system, Type III","Ningaloo",3.10327516902579e-05
+"394","Protein secretion system, Type III","Philippines",8.73281664913985e-05
+"395","Protein secretion system, Type III","Tanzania",6.3439232250898e-05
+"396","Protein secretion system, Type VI","Cancun",0.00225600718617363
+"397","Protein secretion system, Type VI","Lapaz",0.00153011345710732
+"398","Protein secretion system, Type VI","Ningaloo",0.00212784815294268
+"399","Protein secretion system, Type VI","Philippines",0.00303270773210579
+"400","Protein secretion system, Type VI","Tanzania",0.00258038806082964
+"401","Protein secretion system, Type VII","Cancun",5.13623267270342e-06
+"402","Protein secretion system, Type VII","Lapaz",6.50170056677682e-06
+"403","Protein secretion system, Type VII","Ningaloo",1.02741768148969e-05
+"404","Protein secretion system, Type VII","Philippines",2.04685760637333e-05
+"405","Protein secretion system, Type VII","Tanzania",5.31460840703309e-06
+"406","Protein secretion system, Type VIII (Extracellular nucleation/precipitation pathway, ENP)","Cancun",0.000695700376817088
+"407","Protein secretion system, Type VIII (Extracellular nucleation/precipitation pathway, ENP)","Lapaz",0.000376304079214291
+"408","Protein secretion system, Type VIII (Extracellular nucleation/precipitation pathway, ENP)","Ningaloo",0.000218608364708492
+"409","Protein secretion system, Type VIII (Extracellular nucleation/precipitation pathway, ENP)","Philippines",0.000424170128721778
+"410","Protein secretion system, Type VIII (Extracellular nucleation/precipitation pathway, ENP)","Tanzania",0.000282933757968386
+"411","Protein translocation across cytoplasmic membrane","Cancun",0.000690558477173139
+"412","Protein translocation across cytoplasmic membrane","Lapaz",0.000876130000992341
+"413","Protein translocation across cytoplasmic membrane","Ningaloo",0.000817711126768624
+"414","Protein translocation across cytoplasmic membrane","Philippines",0.000676938142209341
+"415","Protein translocation across cytoplasmic membrane","Tanzania",0.000666031647301083
+"416","Sugar Phosphotransferase Systems, PTS","Cancun",7.40618540120873e-07
+"417","Sugar Phosphotransferase Systems, PTS","Lapaz",6.05227608985717e-07
+"418","Sugar Phosphotransferase Systems, PTS","Ningaloo",6.19048018698359e-07
+"419","Sugar Phosphotransferase Systems, PTS","Philippines",1.78198458973657e-07
+"420","Sugar Phosphotransferase Systems, PTS","Tanzania",0
+"421","TRAP transporters","Cancun",0.00022735352656513
+"422","TRAP transporters","Lapaz",0.000329780278912685
+"423","TRAP transporters","Ningaloo",0.000111002567718561
+"424","TRAP transporters","Philippines",0.000203656638689752
+"425","TRAP transporters","Tanzania",0.000176380007830242
+"426","Uni- Sym- and Antiporters","Cancun",0.00339174133297581
+"427","Uni- Sym- and Antiporters","Lapaz",0.00286602190169943
+"428","Uni- Sym- and Antiporters","Ningaloo",0.00220555712851191
+"429","Uni- Sym- and Antiporters","Philippines",0.0031902443818492
+"430","Uni- Sym- and Antiporters","Tanzania",0.00314417692934124
+"431","Aromatic general","Cancun",0.00108638933993793
+"432","Aromatic general","Lapaz",0.00118075750451891
+"433","Aromatic general","Ningaloo",0.000762308849163608
+"434","Aromatic general","Philippines",0.00114903263901472
+"435","Aromatic general","Tanzania",0.00102285271627348
+"436","Benzoate transport and degradation cluster","Cancun",0.000465029009197185
+"437","Benzoate transport and degradation cluster","Lapaz",0.000582025787688974
+"438","Benzoate transport and degradation cluster","Ningaloo",0.000237347953708939
+"439","Benzoate transport and degradation cluster","Philippines",0.000151040316589336
+"440","Benzoate transport and degradation cluster","Tanzania",0.000232818624901334
+"441","Anaerobic degradation of aromatic compounds","Cancun",0.000489952822994453
+"442","Anaerobic degradation of aromatic compounds","Lapaz",0.000519322412951952
+"443","Anaerobic degradation of aromatic compounds","Ningaloo",0.000338835676091263
+"444","Anaerobic degradation of aromatic compounds","Philippines",0.000567725759241457
+"445","Anaerobic degradation of aromatic compounds","Tanzania",0.000440192242023972
+"446","Metabolism of central aromatic intermediates","Cancun",0.00465017962066632
+"447","Metabolism of central aromatic intermediates","Lapaz",0.00454758099180839
+"448","Metabolism of central aromatic intermediates","Ningaloo",0.00326049666901736
+"449","Metabolism of central aromatic intermediates","Philippines",0.00532184047614995
+"450","Metabolism of central aromatic intermediates","Tanzania",0.00480134411464261
+"451","Peripheral pathways for catabolism of aromatic compounds","Cancun",0.00377354645663906
+"452","Peripheral pathways for catabolism of aromatic compounds","Lapaz",0.0029330787556693
+"453","Peripheral pathways for catabolism of aromatic compounds","Ningaloo",0.00212084331028924
+"454","Peripheral pathways for catabolism of aromatic compounds","Philippines",0.00330976479913095
+"455","Peripheral pathways for catabolism of aromatic compounds","Tanzania",0.00322494934916779
+"456","Bacterial Luciferases","Cancun",6.67677564629751e-05
+"457","Bacterial Luciferases","Lapaz",1.37346757485516e-05
+"458","Bacterial Luciferases","Ningaloo",1.13996625842992e-05
+"459","Bacterial Luciferases","Philippines",4.19009010315163e-05
+"460","Bacterial Luciferases","Tanzania",2.07466033436602e-05
+"461","Broadly distributed proteins not in subsystems","Cancun",0.000894475890155955
+"462","Broadly distributed proteins not in subsystems","Lapaz",0.00118346246580933
+"463","Broadly distributed proteins not in subsystems","Ningaloo",0.00123020609690831
+"464","Broadly distributed proteins not in subsystems","Philippines",0.00107887250954936
+"465","Broadly distributed proteins not in subsystems","Tanzania",0.000995249804677355
+"466","Phosphotransferases","Cancun",0.000325480160263224
+"467","Phosphotransferases","Lapaz",0.000291898136837265
+"468","Phosphotransferases","Ningaloo",0.000196777964475946
+"469","Phosphotransferases","Philippines",0.000311248855174524
+"470","Phosphotransferases","Tanzania",0.000221885905182449
+"471","Lyases","Cancun",0.00170305812247894
+"472","Lyases","Lapaz",0.00173335437706696
+"473","Lyases","Ningaloo",0.00179288762036062
+"474","Lyases","Philippines",0.00165373290027207
+"475","Lyases","Tanzania",0.00173177058582777
+"476","Miscellaneous","Cancun",0.000185446631298629
+"477","Miscellaneous","Lapaz",0.000200818039733489
+"478","Miscellaneous","Ningaloo",0.000176260461396306
+"479","Miscellaneous","Philippines",0
+"480","Miscellaneous","Tanzania",0.000160291802183317
+"481","Metabolite repair","Cancun",0.00373190807343793
+"482","Metabolite repair","Lapaz",0.00359687172067445
+"483","Metabolite repair","Ningaloo",0.00296006426009901
+"484","Metabolite repair","Philippines",0.0031652460593952
+"485","Metabolite repair","Tanzania",0.00332254765863845
+"486","Bacterial Chemotaxis","Cancun",0.00703300302490291
+"487","Bacterial Chemotaxis","Lapaz",0.00647207057090425
+"488","Bacterial Chemotaxis","Ningaloo",0.00490015736807162
+"489","Bacterial Chemotaxis","Philippines",0.00565928595927714
+"490","Bacterial Chemotaxis","Tanzania",0.00726401226760483
+"491","Flagellar motility in Prokaryota","Cancun",0.0182572392304896
+"492","Flagellar motility in Prokaryota","Lapaz",0.0130637014734909
+"493","Flagellar motility in Prokaryota","Ningaloo",0.0117935122911404
+"494","Flagellar motility in Prokaryota","Philippines",0.0147274236636847
+"495","Flagellar motility in Prokaryota","Tanzania",0.0178314098098964
+"496","Social motility and nonflagellar swimming in bacteria","Cancun",0.003780456225597
+"497","Social motility and nonflagellar swimming in bacteria","Lapaz",0.00344357046789996
+"498","Social motility and nonflagellar swimming in bacteria","Ningaloo",0.00325316877250724
+"499","Social motility and nonflagellar swimming in bacteria","Philippines",0.00281633719806006
+"500","Social motility and nonflagellar swimming in bacteria","Tanzania",0.003670214664762
+"501","Allantoin Utilization","Cancun",0.000170245113902183
+"502","Allantoin Utilization","Lapaz",0.00023414194339493
+"503","Allantoin Utilization","Ningaloo",0.000137272785872764
+"504","Allantoin Utilization","Philippines",0.000218248340074335
+"505","Allantoin Utilization","Tanzania",0.000163018724344219
+"506","Amidase cluster","Cancun",0.000104903025433447
+"507","Amidase cluster","Lapaz",0.000144126656504104
+"508","Amidase cluster","Ningaloo",0.000117514203048109
+"509","Amidase cluster","Philippines",0.000111687206797215
+"510","Amidase cluster","Tanzania",0.000137431859357033
+"511","Ammonia assimilation","Cancun",0.00647291362901336
+"512","Ammonia assimilation","Lapaz",0.0078155943888597
+"513","Ammonia assimilation","Ningaloo",0.00793671938215807
+"514","Ammonia assimilation","Philippines",0.00632773143291113
+"515","Ammonia assimilation","Tanzania",0.0070435934304451
+"516","Cyanate hydrolysis","Cancun",0.000427718579239164
+"517","Cyanate hydrolysis","Lapaz",0.000416092051859238
+"518","Cyanate hydrolysis","Ningaloo",0.000313382168490562
+"519","Cyanate hydrolysis","Philippines",0.000480804242865679
+"520","Cyanate hydrolysis","Tanzania",0.000376617281988014
+"521","Denitrification","Cancun",0.00114087181400164
+"522","Denitrification","Lapaz",0.000823811637420558
+"523","Denitrification","Ningaloo",0.000553759513603055
+"524","Denitrification","Philippines",0.000977665572999026
+"525","Denitrification","Tanzania",0.00121323077035327
+"526","Dissimilatory nitrite reductase","Cancun",0.000448450426383571
+"527","Dissimilatory nitrite reductase","Lapaz",0.000459552556313208
+"528","Dissimilatory nitrite reductase","Ningaloo",0.000337151636220433
+"529","Dissimilatory nitrite reductase","Philippines",0.000554210697172799
+"530","Dissimilatory nitrite reductase","Tanzania",0
+"531","Nitrate and nitrite ammonification","Cancun",0.00446136323178995
+"532","Nitrate and nitrite ammonification","Lapaz",0.0039885493330754
+"533","Nitrate and nitrite ammonification","Ningaloo",0.00325058055065289
+"534","Nitrate and nitrite ammonification","Philippines",0.0049078158835682
+"535","Nitrate and nitrite ammonification","Tanzania",0.00433257404081833
+"536","Nitrogen metabolism","Cancun",0.000470575289840016
+"537","Nitrogen metabolism","Lapaz",0.000502570454372587
+"538","Nitrogen metabolism","Ningaloo",0.000263892969098057
+"539","Nitrogen metabolism","Philippines",0.000606662707586442
+"540","Nitrogen metabolism","Tanzania",0.000348107508669709
+"541","Nitrogen fixation","Cancun",4.70576011556819e-05
+"542","Nitrogen fixation","Lapaz",2.50756121455145e-05
+"543","Nitrogen fixation","Ningaloo",2.26143876232463e-05
+"544","Nitrogen fixation","Philippines",1.89090203841454e-05
+"545","Nitrogen fixation","Tanzania",3.48704847267076e-05
+"546","Nitrosative stress","Cancun",0.000249464854540374
+"547","Nitrosative stress","Lapaz",0.000262054571050236
+"548","Nitrosative stress","Ningaloo",0.000162380846448641
+"549","Nitrosative stress","Philippines",0.000409107520455747
+"550","Nitrosative stress","Tanzania",0.000257069183583009
+"551","Nucleosides general","Cancun",0.0015200937877581
+"552","Nucleosides general","Lapaz",0.00178426141295654
+"553","Nucleosides general","Ningaloo",0.00157175528622105
+"554","Nucleosides general","Philippines",0.00139616446129912
+"555","Nucleosides general","Tanzania",0.00173140626200561
+"556","Ribonucleotide reduction","Cancun",0.00334280025758993
+"557","Ribonucleotide reduction","Lapaz",0.00420295747892482
+"558","Ribonucleotide reduction","Ningaloo",0.00566752315400091
+"559","Ribonucleotide reduction","Philippines",0.00327596808619214
+"560","Ribonucleotide reduction","Tanzania",0.00451799062407987
+"561","Purines","Cancun",0.0172848111077015
+"562","Purines","Lapaz",0.0186701479027694
+"563","Purines","Ningaloo",0.0215480493588749
+"564","Purines","Philippines",0.0169940693579028
+"565","Purines","Tanzania",0.01825319983717
+"566","Pyrimidines","Cancun",0.00856555269661605
+"567","Pyrimidines","Lapaz",0.00971603729734796
+"568","Pyrimidines","Ningaloo",0.0110989524436626
+"569","Pyrimidines","Philippines",0.0090616146561293
+"570","Pyrimidines","Tanzania",0.00991303930920762
+"571","Bacteriophage integration/excision/lysogeny","Cancun",7.91689999749876e-05
+"572","Bacteriophage integration/excision/lysogeny","Lapaz",8.56141812485203e-05
+"573","Bacteriophage integration/excision/lysogeny","Ningaloo",0.000118780733804217
+"574","Bacteriophage integration/excision/lysogeny","Philippines",7.75432089853966e-05
+"575","Bacteriophage integration/excision/lysogeny","Tanzania",7.80825983016223e-05
+"576","Bacteriophage structural proteins","Cancun",1.64499584542784e-05
+"577","Bacteriophage structural proteins","Lapaz",1.38104535794213e-05
+"578","Bacteriophage structural proteins","Ningaloo",3.36996911172933e-05
+"579","Bacteriophage structural proteins","Philippines",2.92526063265453e-05
+"580","Bacteriophage structural proteins","Tanzania",2.38125758573189e-05
+"581","Phage Host Interactions","Cancun",4.1751781158713e-06
+"582","Phage Host Interactions","Lapaz",5.76791665003268e-06
+"583","Phage Host Interactions","Ningaloo",6.07802109797147e-06
+"584","Phage Host Interactions","Philippines",3.39888308051341e-06
+"585","Phage Host Interactions","Tanzania",2.04326278635402e-06
+"586","Phage family-specific subsystems","Cancun",5.98109803783491e-05
+"587","Phage family-specific subsystems","Lapaz",0.000662944595595094
+"588","Phage family-specific subsystems","Ningaloo",0.0029332412979838
+"589","Phage family-specific subsystems","Philippines",0.000910697316463229
+"590","Phage family-specific subsystems","Tanzania",0.000478620947798791
+"591","Superinfection Exclusion","Cancun",5.17245644213904e-07
+"592","Superinfection Exclusion","Lapaz",1.78246782029027e-06
+"593","Superinfection Exclusion","Ningaloo",0
+"594","Superinfection Exclusion","Philippines",0
+"595","Superinfection Exclusion","Tanzania",0
+"596","Integrons","Cancun",0.000288779069437841
+"597","Integrons","Lapaz",0.000242610827704992
+"598","Integrons","Ningaloo",0.000283243143606766
+"599","Integrons","Philippines",0.000304626812577812
+"600","Integrons","Tanzania",0.000350800037318031
+"601","Pathogenicity islands","Cancun",0.000608046992172647
+"602","Pathogenicity islands","Lapaz",0.000692779711490485
+"603","Pathogenicity islands","Ningaloo",0.00092344389134174
+"604","Pathogenicity islands","Philippines",0.000743448887083042
+"605","Pathogenicity islands","Tanzania",0.000829080892900638
+"606","Phages, Prophages","Cancun",0.00112423354443167
+"607","Phages, Prophages","Lapaz",0.00204273300945708
+"608","Phages, Prophages","Ningaloo",0.00609655519479695
+"609","Phages, Prophages","Philippines",0.00196234643169354
+"610","Phages, Prophages","Tanzania",0.00223282634680969
+"611","Plasmid related functions","Cancun",1.2479694468069e-06
+"612","Plasmid related functions","Lapaz",4.20284233718625e-06
+"613","Plasmid related functions","Ningaloo",2.28777258440429e-06
+"614","Plasmid related functions","Philippines",1.0518597005174e-06
+"615","Plasmid related functions","Tanzania",7.81270553701004e-06
+"616","Transposable elements","Cancun",0.0038117036879474
+"617","Transposable elements","Lapaz",0.00195176853001747
+"618","Transposable elements","Ningaloo",0.000972203789805521
+"619","Transposable elements","Philippines",0.00402731526669211
+"620","Transposable elements","Tanzania",0.00236479529430578
+"621","Alkylphosphonate utilization","Cancun",0.000740471429822968
+"622","Alkylphosphonate utilization","Lapaz",0.000595610284399928
+"623","Alkylphosphonate utilization","Ningaloo",0.000422803189349055
+"624","Alkylphosphonate utilization","Philippines",0.000862961369825662
+"625","Alkylphosphonate utilization","Tanzania",0.000889126506457179
+"626","Phosphate transporter","Cancun",0.00203912425904653
+"627","Phosphate transporter","Lapaz",0.00215950345396425
+"628","Phosphate transporter","Ningaloo",0.00244121613157646
+"629","Phosphate transporter","Philippines",0.00239764815232008
+"630","Phosphate transporter","Tanzania",0.00214707060097352
+"631","P uptake","Cancun",3.96166308731747e-06
+"632","P uptake","Lapaz",1.31522357900345e-05
+"633","P uptake","Ningaloo",3.69658448510564e-05
+"634","P uptake","Philippines",0
+"635","P uptake","Tanzania",2.66249330232789e-06
+"636","Phosphate metabolism","Cancun",0.0131636975654284
+"637","Phosphate metabolism","Lapaz",0.0125903987922529
+"638","Phosphate metabolism","Ningaloo",0.0137950682522738
+"639","Phosphate metabolism","Philippines",0.0132277402295341
+"640","Phosphate metabolism","Tanzania",0.0127534440967412
+"641","Proteorhodopsin","Cancun",0.000140382921937262
+"642","Proteorhodopsin","Lapaz",0.00046754911232232
+"643","Proteorhodopsin","Ningaloo",0.00101321427967981
+"644","Proteorhodopsin","Philippines",0.000290108891020769
+"645","Proteorhodopsin","Tanzania",0.000258327257088376
+"646","Electron transport and photophosphorylation","Cancun",0.000126599314626949
+"647","Electron transport and photophosphorylation","Lapaz",0.000958527159567493
+"648","Electron transport and photophosphorylation","Ningaloo",0.0038520469973249
+"649","Electron transport and photophosphorylation","Philippines",0.000239234098420303
+"650","Electron transport and photophosphorylation","Tanzania",0.000377427265253895
+"651","Light-harvesting complexes","Cancun",5.18893792667106e-05
+"652","Light-harvesting complexes","Lapaz",0.000319518041574643
+"653","Light-harvesting complexes","Ningaloo",0.00139256431219695
+"654","Light-harvesting complexes","Philippines",0.000144054931911988
+"655","Light-harvesting complexes","Tanzania",0.000127839390652495
+"656","Glutathione-regulated potassium-efflux system","Cancun",0.00628524610672516
+"657","Glutathione-regulated potassium-efflux system","Lapaz",0.0045645160949965
+"658","Glutathione-regulated potassium-efflux system","Ningaloo",0.00419095181067665
+"659","Glutathione-regulated potassium-efflux system","Philippines",0.00475517151563266
+"660","Glutathione-regulated potassium-efflux system","Tanzania",0.00561329176215792
+"661","Hyperosmotic potassium uptake","Cancun",0.000403576689380348
+"662","Hyperosmotic potassium uptake","Lapaz",0.000248343211202317
+"663","Hyperosmotic potassium uptake","Ningaloo",0.000371599334712447
+"664","Hyperosmotic potassium uptake","Philippines",0.000325266179212432
+"665","Hyperosmotic potassium uptake","Tanzania",0
+"666","Potassium homeostasis","Cancun",0.00787939683555028
+"667","Potassium homeostasis","Lapaz",0.00741970229565353
+"668","Potassium homeostasis","Ningaloo",0.00681971147722721
+"669","Potassium homeostasis","Philippines",0.00851134088026967
+"670","Potassium homeostasis","Tanzania",0.0076198604618887
+"671","Potassium metabolism","Cancun",4.16227649698405e-05
+"672","Potassium metabolism","Lapaz",3.52296417158015e-05
+"673","Potassium metabolism","Ningaloo",0
+"674","Potassium metabolism","Philippines",0
+"675","Potassium metabolism","Tanzania",0
+"676","Protein biosynthesis","Cancun",0.0514884142613328
+"677","Protein biosynthesis","Lapaz",0.0588286456231693
+"678","Protein biosynthesis","Ningaloo",0.0715431352813538
+"679","Protein biosynthesis","Philippines",0.0542370783465466
+"680","Protein biosynthesis","Tanzania",0.0582981354003346
+"681","Protein degradation","Cancun",0.0178388649497871
+"682","Protein degradation","Lapaz",0.0170812254586993
+"683","Protein degradation","Ningaloo",0.0189958844104869
+"684","Protein degradation","Philippines",0.0172096691732728
+"685","Protein degradation","Tanzania",0.0182204096593169
+"686","Protein folding","Cancun",0.00718278732614419
+"687","Protein folding","Lapaz",0.00783247328805584
+"688","Protein folding","Ningaloo",0.00896342391958127
+"689","Protein folding","Philippines",0.00759984185522739
+"690","Protein folding","Tanzania",0.00727767501128694
+"691","Protein processing and modification","Cancun",0.00563887660403355
+"692","Protein processing and modification","Lapaz",0.00575666325056172
+"693","Protein processing and modification","Ningaloo",0.00596074759783721
+"694","Protein processing and modification","Philippines",0.00573639942235864
+"695","Protein processing and modification","Tanzania",0.00509580312008888
+"696","Secretion","Cancun",0.000234130010148549
+"697","Secretion","Lapaz",0.000216599416474903
+"698","Secretion","Ningaloo",4.18640089366846e-05
+"699","Secretion","Philippines",0.000109807688035752
+"700","Secretion","Tanzania",9.42909210665575e-05
+"701","Selenoproteins","Cancun",0.00170046199023631
+"702","Selenoproteins","Lapaz",0.00197175099887386
+"703","Selenoproteins","Ningaloo",0.00203820557873038
+"704","Selenoproteins","Philippines",0.00213704488917119
+"705","Selenoproteins","Tanzania",0.00194102908846394
+"706","RNA metabolism","Cancun",0.00118512718346386
+"707","RNA metabolism","Lapaz",0.000934492047750854
+"708","RNA metabolism","Ningaloo",0
+"709","RNA metabolism","Philippines",0
+"710","RNA metabolism","Tanzania",0
+"711","RNA processing and modification","Cancun",0.0313810738668828
+"712","RNA processing and modification","Lapaz",0.0326765021893815
+"713","RNA processing and modification","Ningaloo",0.0323700191781799
+"714","RNA processing and modification","Philippines",0.0345646344274101
+"715","RNA processing and modification","Tanzania",0.0332362325944022
+"716","Transcription","Cancun",0.0111782099374811
+"717","Transcription","Lapaz",0.0127804883234949
+"718","Transcription","Ningaloo",0.01656345748096
+"719","Transcription","Philippines",0.0116989857238966
+"720","Transcription","Tanzania",0.0126306731016327
+"721","Regulation and cell signaling","Cancun",0.0145756404964796
+"722","Regulation and cell signaling","Lapaz",0.0149120400094335
+"723","Regulation and cell signaling","Ningaloo",0.0147003310210034
+"724","Regulation and cell signaling","Philippines",0.0147610838500087
+"725","Regulation and cell signaling","Tanzania",0.0074750885335704
+"726","DNA-binding regulatory proteins, strays","Cancun",0.00126083145867116
+"727","DNA-binding regulatory proteins, strays","Lapaz",0.000936849835721435
+"728","DNA-binding regulatory proteins, strays","Ningaloo",0.000390387217865831
+"729","DNA-binding regulatory proteins, strays","Philippines",0.00111716878411919
+"730","DNA-binding regulatory proteins, strays","Tanzania",0
+"731","Orphan regulatory proteins","Cancun",0.00255689929945047
+"732","Orphan regulatory proteins","Lapaz",0.00240420141349453
+"733","Orphan regulatory proteins","Ningaloo",0.00210731565406599
+"734","Orphan regulatory proteins","Philippines",0.00278004310963721
+"735","Orphan regulatory proteins","Tanzania",0.00301468700659944
+"736","Programmed Cell Death and Toxin-antitoxin Systems","Cancun",0.00246448377353735
+"737","Programmed Cell Death and Toxin-antitoxin Systems","Lapaz",0.00215753961651192
+"738","Programmed Cell Death and Toxin-antitoxin Systems","Ningaloo",0.00115889889497842
+"739","Programmed Cell Death and Toxin-antitoxin Systems","Philippines",0.00206014832117099
+"740","Programmed Cell Death and Toxin-antitoxin Systems","Tanzania",0.0020600972939876
+"741","Proteolytic pathway","Cancun",2.67114219476853e-06
+"742","Proteolytic pathway","Lapaz",0.000102544210385162
+"743","Proteolytic pathway","Ningaloo",0.00042326042460208
+"744","Proteolytic pathway","Philippines",6.59295519908891e-07
+"745","Proteolytic pathway","Tanzania",7.04101185901244e-06
+"746","Quorum sensing and biofilm formation","Cancun",0.000321256255687144
+"747","Quorum sensing and biofilm formation","Lapaz",0.000211785543647336
+"748","Quorum sensing and biofilm formation","Ningaloo",9.86250282928873e-05
+"749","Quorum sensing and biofilm formation","Philippines",0.000309824560931765
+"750","Quorum sensing and biofilm formation","Tanzania",0.00039109632376248
+"751","Regulation of virulence","Cancun",0.000335009978314485
+"752","Regulation of virulence","Lapaz",0.000208369047103139
+"753","Regulation of virulence","Ningaloo",0.000282172391495416
+"754","Regulation of virulence","Philippines",0.00027041555788109
+"755","Regulation of virulence","Tanzania",0.000293830664935469
+"756","Signal transduction in Eukaryotes","Cancun",0.00035666614645952
+"757","Signal transduction in Eukaryotes","Lapaz",0.000423515622567458
+"758","Signal transduction in Eukaryotes","Ningaloo",0.000743213534559846
+"759","Signal transduction in Eukaryotes","Philippines",0.000354205113499571
+"760","Signal transduction in Eukaryotes","Tanzania",0.000389889981966337
+"761","Respiration-Biogenesis","Cancun",0.00806458361888521
+"762","Respiration-Biogenesis","Lapaz",0.00937906354657961
+"763","Respiration-Biogenesis","Ningaloo",0.0071643239367754
+"764","Respiration-Biogenesis","Philippines",0.00748245709664146
+"765","Respiration-Biogenesis","Tanzania",0
+"766","Respiration general","Cancun",0.00215912523892569
+"767","Respiration general","Lapaz",0.00224344956509775
+"768","Respiration general","Ningaloo",0.00230427654149624
+"769","Respiration general","Philippines",0.00284119894011547
+"770","Respiration general","Tanzania",0.00199689088279951
+"771","Formate hydrogenase","Cancun",0.00264641039858016
+"772","Formate hydrogenase","Lapaz",0.0030748371522044
+"773","Formate hydrogenase","Ningaloo",0.00235392416173928
+"774","Formate hydrogenase","Philippines",0.00260407562018004
+"775","Formate hydrogenase","Tanzania",0.00288532252070415
+"776","ATP synthases","Cancun",0.00464712775702438
+"777","ATP synthases","Lapaz",0.00570876848710612
+"778","ATP synthases","Ningaloo",0.00801419717398105
+"779","ATP synthases","Philippines",0.00462149260849302
+"780","ATP synthases","Tanzania",0.00505911252021092
+"781","Electron accepting reactions","Cancun",0.0152295046355515
+"782","Electron accepting reactions","Lapaz",0.0133324694537823
+"783","Electron accepting reactions","Ningaloo",0.011928832204721
+"784","Electron accepting reactions","Philippines",0.013964306672314
+"785","Electron accepting reactions","Tanzania",0.0133312952043168
+"786","Electron donating reactions","Cancun",0.0130598515199205
+"787","Electron donating reactions","Lapaz",0.0152876979499865
+"788","Electron donating reactions","Ningaloo",0.0170118865941616
+"789","Electron donating reactions","Philippines",0.0135109527993552
+"790","Electron donating reactions","Tanzania",0.0146223395355972
+"791","General Stress Response and Stationary Phase Response","Cancun",0.000671476604935635
+"792","General Stress Response and Stationary Phase Response","Lapaz",0.000507782420398412
+"793","General Stress Response and Stationary Phase Response","Ningaloo",0.000306606663479885
+"794","General Stress Response and Stationary Phase Response","Philippines",0.000596133489502499
+"795","General Stress Response and Stationary Phase Response","Tanzania",0.000653104992405446
+"796","Mitochondrial electron transport system in plants","Cancun",5.42754804827663e-05
+"797","Mitochondrial electron transport system in plants","Lapaz",9.32229979616604e-05
+"798","Mitochondrial electron transport system in plants","Ningaloo",0.000486495696659141
+"799","Mitochondrial electron transport system in plants","Philippines",3.12762686275545e-05
+"800","Mitochondrial electron transport system in plants","Tanzania",7.78625499605578e-05
+"801","Plastidial (cyanobacterial) electron transport system","Cancun",4.51582482402598e-05
+"802","Plastidial (cyanobacterial) electron transport system","Lapaz",0.000233891689753535
+"803","Plastidial (cyanobacterial) electron transport system","Ningaloo",0.0013349119133047
+"804","Plastidial (cyanobacterial) electron transport system","Philippines",7.02671171651517e-05
+"805","Plastidial (cyanobacterial) electron transport system","Tanzania",9.98279448040273e-05
+"806","Sodium Ion-Coupled Energetics","Cancun",0.000281047573738441
+"807","Sodium Ion-Coupled Energetics","Lapaz",0.000229450114862169
+"808","Sodium Ion-Coupled Energetics","Ningaloo",0.000207954060670805
+"809","Sodium Ion-Coupled Energetics","Philippines",0.000190484264853153
+"810","Sodium Ion-Coupled Energetics","Tanzania",0.000288563911310737
+"811","Bacterial cytostatics, differentiation factors and antibiotics","Cancun",6.15209430092545e-05
+"812","Bacterial cytostatics, differentiation factors and antibiotics","Lapaz",6.3713696183221e-05
+"813","Bacterial cytostatics, differentiation factors and antibiotics","Ningaloo",1.54875039216482e-05
+"814","Bacterial cytostatics, differentiation factors and antibiotics","Philippines",5.86540884563989e-05
+"815","Bacterial cytostatics, differentiation factors and antibiotics","Tanzania",4.77777538291403e-05
+"816","Biologically active compounds in metazoan cell defence and differentiation","Cancun",0.000189862167925744
+"817","Biologically active compounds in metazoan cell defence and differentiation","Lapaz",0.000380021073033846
+"818","Biologically active compounds in metazoan cell defence and differentiation","Ningaloo",0.000318730275214005
+"819","Biologically active compounds in metazoan cell defence and differentiation","Philippines",0.000219821618668211
+"820","Biologically active compounds in metazoan cell defence and differentiation","Tanzania",0.000162067870678331
+"821","Biosynthesis of phenylpropanoids","Cancun",7.97172394968812e-05
+"822","Biosynthesis of phenylpropanoids","Lapaz",6.36377052702499e-05
+"823","Biosynthesis of phenylpropanoids","Ningaloo",2.85469744068795e-05
+"824","Biosynthesis of phenylpropanoids","Philippines",7.37573951598911e-05
+"825","Biosynthesis of phenylpropanoids","Tanzania",5.320765498685e-05
+"826","Hydrocarbons","Cancun",8.98338144974808e-06
+"827","Hydrocarbons","Lapaz",3.95045842198097e-05
+"828","Hydrocarbons","Ningaloo",0.000323215494890572
+"829","Hydrocarbons","Philippines",1.88430646351006e-05
+"830","Hydrocarbons","Tanzania",2.99985437815037e-05
+"831","Plant Alkaloids","Cancun",7.24089905541941e-05
+"832","Plant Alkaloids","Lapaz",0.000105978059981943
+"833","Plant Alkaloids","Ningaloo",0.000256160472439462
+"834","Plant Alkaloids","Philippines",7.39334892417175e-05
+"835","Plant Alkaloids","Tanzania",9.37583454434076e-05
+"836","Plant Hormones","Cancun",0.000262356572812583
+"837","Plant Hormones","Lapaz",0.000288099255358436
+"838","Plant Hormones","Ningaloo",0.000229035327322349
+"839","Plant Hormones","Philippines",0.000292728278523785
+"840","Plant Hormones","Tanzania",0.000403211479738818
+"841","stress- hemoglobins","Cancun",0.00622134535884989
+"842","stress- hemoglobins","Lapaz",0.00640879293820858
+"843","stress- hemoglobins","Ningaloo",0.00646595188601427
+"844","stress- hemoglobins","Philippines",0.00591596950909243
+"845","stress- hemoglobins","Tanzania",0
+"846","stress - carbon starvation","Cancun",0.00127347785565229
+"847","stress - carbon starvation","Lapaz",0.00109541170166509
+"848","stress - carbon starvation","Ningaloo",0.000804964623239931
+"849","stress - carbon starvation","Philippines",0.00118173219245665
+"850","stress - carbon starvation","Tanzania",0
+"851","Commensurate regulation","Cancun",5.46696795899107e-06
+"852","Commensurate regulation","Lapaz",4.02393884914666e-05
+"853","Commensurate regulation","Ningaloo",1.06620568639447e-06
+"854","Commensurate regulation","Philippines",1.3148678904054e-05
+"855","Commensurate regulation","Tanzania",0
+"856","Stress-Dimethylarginine metabolism","Cancun",0.000200667775651511
+"857","Stress-Dimethylarginine metabolism","Lapaz",2.50692232268972e-05
+"858","Stress-Dimethylarginine metabolism","Ningaloo",0.000180159796986865
+"859","Stress-Dimethylarginine metabolism","Philippines",0.000208157772754558
+"860","Stress-Dimethylarginine metabolism","Tanzania",0
+"861","Stress- Flavohaemoglobin","Cancun",0.00203155905543645
+"862","Stress- Flavohaemoglobin","Lapaz",0.00285531663253817
+"863","Stress- Flavohaemoglobin","Ningaloo",0.00158671150453005
+"864","Stress- Flavohaemoglobin","Philippines",0
+"865","Stress- Flavohaemoglobin","Tanzania",0
+"866","Stress general","Cancun",0.0038979102564129
+"867","Stress general","Lapaz",0.00346568828426881
+"868","Stress general","Ningaloo",0.0032673986237044
+"869","Stress general","Philippines",0.00370133554798587
+"870","Stress general","Tanzania",0.00357087513393709
+"871","Acid stress","Cancun",4.69833407728249e-07
+"872","Acid stress","Lapaz",1.98085691871177e-06
+"873","Acid stress","Ningaloo",0
+"874","Acid stress","Philippines",0
+"875","Acid stress","Tanzania",0
+"876","Cold shock","Cancun",0.000644339515730901
+"877","Cold shock","Lapaz",0.000559403516797493
+"878","Cold shock","Ningaloo",0.000573750946932123
+"879","Cold shock","Philippines",0.000759024449500042
+"880","Cold shock","Tanzania",0.000590011849536413
+"881","Dessication stress","Cancun",5.01012239862171e-07
+"882","Dessication stress","Lapaz",6.67579116773754e-05
+"883","Dessication stress","Ningaloo",0
+"884","Dessication stress","Philippines",0
+"885","Dessication stress","Tanzania",0
+"886","Detoxification","Cancun",0.00478514616738996
+"887","Detoxification","Lapaz",0.00459682301624238
+"888","Detoxification","Ningaloo",0.0039569681374122
+"889","Detoxification","Philippines",0.00477358453515768
+"890","Detoxification","Tanzania",0.00507682130207545
+"891","Heat shock","Cancun",0.00742653059650031
+"892","Heat shock","Lapaz",0.00811920255547867
+"893","Heat shock","Ningaloo",0.0102713978361735
+"894","Heat shock","Philippines",0.00794015685869971
+"895","Heat shock","Tanzania",0.0082755806899317
+"896","Osmotic stress","Cancun",0.00757310859570735
+"897","Osmotic stress","Lapaz",0.00878990500342069
+"898","Osmotic stress","Ningaloo",0.00875817384308067
+"899","Osmotic stress","Philippines",0.00721699557666488
+"900","Osmotic stress","Tanzania",0.00854283394935312
+"901","Oxidative stress","Cancun",0.0185723718177812
+"902","Oxidative stress","Lapaz",0.0163638934565259
+"903","Oxidative stress","Ningaloo",0.0148929812498072
+"904","Oxidative stress","Philippines",0.0170329101652219
+"905","Oxidative stress","Tanzania",0.0169630665001033
+"906","Periplasmic Stress","Cancun",0.00191213315119357
+"907","Periplasmic Stress","Lapaz",0.00187188721930288
+"908","Periplasmic Stress","Ningaloo",0.0017405734410638
+"909","Periplasmic Stress","Philippines",0.00191612269969625
+"910","Periplasmic Stress","Tanzania",0.00182925160696153
+"911","Sulfur general","Cancun",0.00235655294958183
+"912","Sulfur general","Lapaz",0.00223523124456554
+"913","Sulfur general","Ningaloo",0.00161565249977896
+"914","Sulfur general","Philippines",0.00197628242021108
+"915","Sulfur general","Tanzania",0.00147729363184173
+"916","DMSP associated","Cancun",0.00214679752793032
+"917","DMSP associated","Lapaz",0.00307125033214343
+"918","DMSP associated","Ningaloo",0.00233879996715806
+"919","DMSP associated","Philippines",0.00230853019642335
+"920","DMSP associated","Tanzania",0
+"921","Sulfate reduction-associated complexes","Cancun",7.18860791651607e-05
+"922","Sulfate reduction-associated complexes","Lapaz",0.000454311545327477
+"923","Sulfate reduction-associated complexes","Ningaloo",6.8278660514498e-05
+"924","Sulfate reduction-associated complexes","Philippines",3.84507482762178e-05
+"925","Sulfate reduction-associated complexes","Tanzania",0.00191587652131648
+"926","Sulfur oxidation","Cancun",8.35358524733229e-05
+"927","Sulfur oxidation","Lapaz",0.000280871549235617
+"928","Sulfur oxidation","Ningaloo",0.000173906065325935
+"929","Sulfur oxidation","Philippines",0.000172828244098877
+"930","Sulfur oxidation","Tanzania",0
+"931","Thioredoxin-disulfide reductase","Cancun",0.00195272079595461
+"932","Thioredoxin-disulfide reductase","Lapaz",0.00180443189252455
+"933","Thioredoxin-disulfide reductase","Ningaloo",0.00176244152916118
+"934","Thioredoxin-disulfide reductase","Philippines",0.0021694635999958
+"935","Thioredoxin-disulfide reductase","Tanzania",0
+"936","Inorganic sulfur assimilation","Cancun",0.00257992784743266
+"937","Inorganic sulfur assimilation","Lapaz",0.00227711128144953
+"938","Inorganic sulfur assimilation","Ningaloo",0.00197582243189213
+"939","Inorganic sulfur assimilation","Philippines",0.00274223361303071
+"940","Inorganic sulfur assimilation","Tanzania",0.00255840762899917
+"941","Organic sulfur assimilation","Cancun",0.0034058877382176
+"942","Organic sulfur assimilation","Lapaz",0.00416456205769141
+"943","Organic sulfur assimilation","Ningaloo",0.00481383983440292
+"944","Organic sulfur assimilation","Philippines",0.00472971834832322
+"945","Organic sulfur assimilation","Tanzania",0.00412649412502177
+"946","Transcriptional regulation","Cancun",0.00160417697484954
+"947","Transcriptional regulation","Lapaz",0.00209701631518457
+"948","Transcriptional regulation","Ningaloo",0.00303415362435143
+"949","Transcriptional regulation","Philippines",0.00203716663095655
+"950","Transcriptional regulation","Tanzania",0.00201413035256719
+"951","Virulence","Cancun",0.00460357845130352
+"952","Virulence","Lapaz",0.00569076956715012
+"953","Virulence","Ningaloo",0.0069677301306738
+"954","Virulence","Philippines",0.00477589951141746
+"955","Virulence","Tanzania",0.00582957492768366
+"956","Fimbriae of the Chaperone/Usher Assembly Pathway","Cancun",0.000100095860373862
+"957","Fimbriae of the Chaperone/Usher Assembly Pathway","Lapaz",3.50116992506756e-05
+"958","Fimbriae of the Chaperone/Usher Assembly Pathway","Ningaloo",8.18755974177842e-06
+"959","Fimbriae of the Chaperone/Usher Assembly Pathway","Philippines",4.23389453086158e-05
+"960","Fimbriae of the Chaperone/Usher Assembly Pathway","Tanzania",2.95479014764276e-05
+"961","Resistance to antibiotics","Cancun",0.023793513931763
+"962","Resistance to antibiotics","Lapaz",0.0186664947231107
+"963","Resistance to antibiotics","Ningaloo",0.016188631068593
+"964","Resistance to antibiotics","Philippines",0.0244768460410258
+"965","Resistance to antibiotics","Tanzania",0.0217751966792966
+"966","Resistance to toxic compounds","Cancun",0.036203053740017
+"967","Resistance to toxic compounds","Lapaz",0.0270302975729233
+"968","Resistance to toxic compounds","Ningaloo",0.0159552268791281
+"969","Resistance to toxic compounds","Philippines",0.0347162434696224
+"970","Resistance to toxic compounds","Tanzania",0.0312849731107195
+"971","Type III, Type IV, Type VI, ESAT secretion systems","Cancun",0.00438682512672038
+"972","Type III, Type IV, Type VI, ESAT secretion systems","Lapaz",0.00287635694115194
+"973","Type III, Type IV, Type VI, ESAT secretion systems","Ningaloo",0.00186997524565863
+"974","Type III, Type IV, Type VI, ESAT secretion systems","Philippines",0.00861143528250287
+"975","Type III, Type IV, Type VI, ESAT secretion systems","Tanzania",0.00228693027031028
+"976","Virulence, Disease, and Defense","Cancun",2.13475248475101e-05
+"977","Virulence, Disease, and Defense","Lapaz",3.70914445658379e-05
+"978","Virulence, Disease, and Defense","Ningaloo",1.90005663567408e-05
+"979","Virulence, Disease, and Defense","Philippines",4.64544538218927e-05
+"980","Virulence, Disease, and Defense","Tanzania",2.79006773159597e-05
+"981","Adhesion","Cancun",0.000233920152951109
+"982","Adhesion","Lapaz",0.000308837588205559
+"983","Adhesion","Ningaloo",0.00015242022236314
+"984","Adhesion","Philippines",0.000314191157260164
+"985","Adhesion","Tanzania",0.00017343695113354
+"986","Bacteriocins, ribosomally synthesized antibacterial peptides","Cancun",0.00139261821786375
+"987","Bacteriocins, ribosomally synthesized antibacterial peptides","Lapaz",0.00148504452601685
+"988","Bacteriocins, ribosomally synthesized antibacterial peptides","Ningaloo",0.00162886646962472
+"989","Bacteriocins, ribosomally synthesized antibacterial peptides","Philippines",0.00151129444067947
+"990","Bacteriocins, ribosomally synthesized antibacterial peptides","Tanzania",0.00150753516065929
+"991","Detection","Cancun",6.40044329236157e-05
+"992","Detection","Lapaz",0.000217893823153632
+"993","Detection","Ningaloo",9.13365525269688e-05
+"994","Detection","Philippines",0.000122242140054238
+"995","Detection","Tanzania",9.18875959099144e-05
+"996","Invasion and intracellular resistance","Cancun",0.000399939780806781
+"997","Invasion and intracellular resistance","Lapaz",0.00033146618142058
+"998","Invasion and intracellular resistance","Ningaloo",0.000227494843275912
+"999","Invasion and intracellular resistance","Philippines",0.000543909856424475
+"1000","Invasion and intracellular resistance","Tanzania",0.000552057128993034
+"1001","Toxins and superantigens","Cancun",1.69536828783232e-05
+"1002","Toxins and superantigens","Lapaz",2.94670600497551e-05
+"1003","Toxins and superantigens","Ningaloo",8.39653208923321e-06
+"1004","Toxins and superantigens","Philippines",1.39968712713397e-05
+"1005","Toxins and superantigens","Tanzania",3.11071935384993e-06
+"1006","Molybdopterin cytosine dinucleotide","Cancun",0
+"1007","Molybdopterin cytosine dinucleotide","Lapaz",0.000895758845128118
+"1008","Molybdopterin cytosine dinucleotide","Ningaloo",0
+"1009","Molybdopterin cytosine dinucleotide","Philippines",0
+"1010","Molybdopterin cytosine dinucleotide","Tanzania",0
+"1011","Nucleotide sugars","Cancun",0
+"1012","Nucleotide sugars","Lapaz",1.25168775414934e-05
+"1013","Nucleotide sugars","Ningaloo",5.13675790877736e-05
+"1014","Nucleotide sugars","Philippines",5.96770041376665e-06
+"1015","Nucleotide sugars","Tanzania",5.69622825512397e-06
+"1016","Methanofuran","Cancun",0
+"1017","Methanofuran","Lapaz",1.48036927282693e-05
+"1018","Methanofuran","Ningaloo",0
+"1019","Methanofuran","Philippines",0
+"1020","Methanofuran","Tanzania",0
+"1021","Coenzyme F420","Cancun",0
+"1022","Coenzyme F420","Lapaz",8.22085456924692e-05
+"1023","Coenzyme F420","Ningaloo",0
+"1024","Coenzyme F420","Philippines",0
+"1025","Coenzyme F420","Tanzania",0.000179836524553576
+"1026","Coenzyme M","Cancun",0
+"1027","Coenzyme M","Lapaz",3.14424449747154e-05
+"1028","Coenzyme M","Ningaloo",0
+"1029","Coenzyme M","Philippines",0
+"1030","Coenzyme M","Tanzania",1.71654539696098e-05
+"1031","DNA phosphorothioation","Cancun",0
+"1032","DNA phosphorothioation","Lapaz",5.27683963164762e-05
+"1033","DNA phosphorothioation","Ningaloo",0
+"1034","DNA phosphorothioation","Philippines",0
+"1035","DNA phosphorothioation","Tanzania",0
+"1036","Heme transport","Cancun",0
+"1037","Heme transport","Lapaz",0.00133052750271151
+"1038","Heme transport","Ningaloo",0
+"1039","Heme transport","Philippines",0
+"1040","Heme transport","Tanzania",0.00189281649092878
+"1041","Lactate racemization","Cancun",0
+"1042","Lactate racemization","Lapaz",6.69904996529679e-07
+"1043","Lactate racemization","Ningaloo",0
+"1044","Lactate racemization","Philippines",0
+"1045","Lactate racemization","Tanzania",0
+"1046","Lipid-derived mediators","Cancun",0
+"1047","Lipid-derived mediators","Lapaz",0
+"1048","Lipid-derived mediators","Ningaloo",4.80854049628447e-05
+"1049","Lipid-derived mediators","Philippines",0
+"1050","Lipid-derived mediators","Tanzania",0
+"1051","Dimethylarginine metabolism","Cancun",0
+"1052","Dimethylarginine metabolism","Lapaz",0.00022221591471071
+"1053","Dimethylarginine metabolism","Ningaloo",0
+"1054","Dimethylarginine metabolism","Philippines",0
+"1055","Dimethylarginine metabolism","Tanzania",0.000207715402886885
+"1056","Cofactors general","Cancun",0
+"1057","Cofactors general","Lapaz",5.99566047007589e-05
+"1058","Cofactors general","Ningaloo",0.00039863543075892
+"1059","Cofactors general","Philippines",0
+"1060","Cofactors general","Tanzania",0
+"1061","Plant Glucosinolates","Cancun",0
+"1062","Plant Glucosinolates","Lapaz",0
+"1063","Plant Glucosinolates","Ningaloo",2.11793699845224e-06
+"1064","Plant Glucosinolates","Philippines",0
+"1065","Plant Glucosinolates","Tanzania",0
+"1066","Arabinose","Cancun",0
+"1067","Arabinose","Lapaz",9.70160813159428e-08
+"1068","Arabinose","Ningaloo",0
+"1069","Arabinose","Philippines",3.50268954505529e-07
+"1070","Arabinose","Tanzania",2.29228316190993e-06
+"1071","Amino acid general","Cancun",0
+"1072","Amino acid general","Lapaz",1.03898593210879e-05
+"1073","Amino acid general","Ningaloo",0
+"1074","Amino acid general","Philippines",0
+"1075","Amino acid general","Tanzania",8.87757088113495e-05
+"1076","Iron general","Cancun",0
+"1077","Iron general","Lapaz",0.000170079349174545
+"1078","Iron general","Ningaloo",0
+"1079","Iron general","Philippines",0
+"1080","Iron general","Tanzania",0.00126421871285485
+"1081","Bactluciferase","Cancun",0
+"1082","Bactluciferase","Lapaz",1.39274564516343e-06
+"1083","Bactluciferase","Ningaloo",0
+"1084","Bactluciferase","Philippines",0
+"1085","Bactluciferase","Tanzania",2.06166820526306e-05
+"1086","Biolumenescence","Cancun",0
+"1087","Biolumenescence","Lapaz",0
+"1088","Biolumenescence","Ningaloo",0
+"1089","Biolumenescence","Philippines",0
+"1090","Biolumenescence","Tanzania",1.29921291029573e-07
+"1091","Dissimilatory nitrate reductase","Cancun",0
+"1092","Dissimilatory nitrate reductase","Lapaz",9.98128281801794e-05
+"1093","Dissimilatory nitrate reductase","Ningaloo",0
+"1094","Dissimilatory nitrate reductase","Philippines",0
+"1095","Dissimilatory nitrate reductase","Tanzania",0.000577158790847262
+"1096","Potassium uptake","Cancun",0
+"1097","Potassium uptake","Lapaz",5.46091490930918e-05
+"1098","Potassium uptake","Ningaloo",0
+"1099","Potassium uptake","Philippines",0
+"1100","Potassium uptake","Tanzania",0.000324896137121702
+"1101","Potassium efflux","Cancun",0
+"1102","Potassium efflux","Lapaz",3.52296417158015e-05
+"1103","Potassium efflux","Ningaloo",0
+"1104","Potassium efflux","Philippines",0
+"1105","Potassium efflux","Tanzania",0.00017938554929416
+"1106","Intron genes","Cancun",0
+"1107","Intron genes","Lapaz",0.000257762586802361
+"1108","Intron genes","Ningaloo",0
+"1109","Intron genes","Philippines",0
+"1110","Intron genes","Tanzania",0.00101446084437332
+"1111","Carbon monoxide","Cancun",0
+"1112","Carbon monoxide","Lapaz",2.88455964517101e-05
+"1113","Carbon monoxide","Ningaloo",0
+"1114","Carbon monoxide","Philippines",0
+"1115","Carbon monoxide","Tanzania",0.000125639673547699
+"1116","Carbon Starvation","Cancun",0
+"1117","Carbon Starvation","Lapaz",0.00025495951957562
+"1118","Carbon Starvation","Ningaloo",0
+"1119","Carbon Starvation","Philippines",0
+"1120","Carbon Starvation","Tanzania",0.00112621689180358
+"1121","Phosphonoalanine","Cancun",0
+"1122","Phosphonoalanine","Lapaz",6.7479062313968e-08
+"1123","Phosphonoalanine","Ningaloo",0
+"1124","Phosphonoalanine","Philippines",0
+"1125","Phosphonoalanine","Tanzania",0
+"1126","Spore DNA protection","Cancun",0
+"1127","Spore DNA protection","Lapaz",1.94032162631886e-07
+"1128","Spore DNA protection","Ningaloo",0
+"1129","Spore DNA protection","Philippines",0
+"1130","Spore DNA protection","Tanzania",0
+"1131","Flavohaemoglobin","Cancun",0
+"1132","Flavohaemoglobin","Lapaz",0
+"1133","Flavohaemoglobin","Ningaloo",0
+"1134","Flavohaemoglobin","Philippines",0.0024679454847415
+"1135","Flavohaemoglobin","Tanzania",0
+"1136","Petidoglycan biosynthesis","Cancun",0
+"1137","Petidoglycan biosynthesis","Lapaz",0
+"1138","Petidoglycan biosynthesis","Ningaloo",0
+"1139","Petidoglycan biosynthesis","Philippines",0
+"1140","Petidoglycan biosynthesis","Tanzania",0.00872215407148861
+"1141","Iron metabolism","Cancun",0
+"1142","Iron metabolism","Lapaz",0
+"1143","Iron metabolism","Ningaloo",0
+"1144","Iron metabolism","Philippines",0
+"1145","Iron metabolism","Tanzania",0.00310223938904545
+"1146","Zinc regulated enzymes","Cancun",0
+"1147","Zinc regulated enzymes","Lapaz",0
+"1148","Zinc regulated enzymes","Ningaloo",0
+"1149","Zinc regulated enzymes","Philippines",0
+"1150","Zinc regulated enzymes","Tanzania",0.00325355524716911
+"1151","cAMP","Cancun",0
+"1152","cAMP","Lapaz",0
+"1153","cAMP","Ningaloo",0
+"1154","cAMP","Philippines",0
+"1155","cAMP","Tanzania",0.0046195531643193
+"1156","Biogenesis of c-type cytochromes","Cancun",0
+"1157","Biogenesis of c-type cytochromes","Lapaz",0
+"1158","Biogenesis of c-type cytochromes","Ningaloo",0
+"1159","Biogenesis of c-type cytochromes","Philippines",0
+"1160","Biogenesis of c-type cytochromes","Tanzania",0.0077685831228051
+"1161","Hemoglobins","Cancun",0
+"1162","Hemoglobins","Lapaz",0
+"1163","Hemoglobins","Ningaloo",0
+"1164","Hemoglobins","Philippines",0
+"1165","Hemoglobins","Tanzania",0.00749711872404842
+"1166","Flabohaemoglobin","Cancun",0
+"1167","Flabohaemoglobin","Lapaz",0
+"1168","Flabohaemoglobin","Ningaloo",0
+"1169","Flabohaemoglobin","Philippines",0
+"1170","Flabohaemoglobin","Tanzania",0.00229181002283405
+"1171","Dimethylsulfoniopropionate (DMSP) mineralization","Cancun",0
+"1172","Dimethylsulfoniopropionate (DMSP) mineralization","Lapaz",0
+"1173","Dimethylsulfoniopropionate (DMSP) mineralization","Ningaloo",0
+"1174","Dimethylsulfoniopropionate (DMSP) mineralization","Philippines",0
+"1175","Dimethylsulfoniopropionate (DMSP) mineralization","Tanzania",0.00235925988855717

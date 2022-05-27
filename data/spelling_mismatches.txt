@@ -1,0 +1,20 @@
+Ton and Tol transport systems	Ton and tol transporters
+Fatty acids	Fatty acids general
+Regulation and Cell signaling	Regulation and cell signaling
+Glutathione-regulated potassium-efflux system and associated functions	Glutathione-regulated potassium-efflux system
+Two cell division clusters relating to chromosome partitioning	Two Cell division clusters relating to chromosome partitioning
+Restriction-Modification System	Restriction mondification system
+Liagases	Ligases
+Phosphate transporter and PHO regulon	Phosphate transporter
+sulfur general	Sulfur general
+Ton and tol transport	Ton and tol transporters
+cell wall general	Cell wall general
+Iron acquition	Iron acquisition
+Hemin trasport	Hemin transport
+"Phosphate transporter, PHO regulon"	Phosphate transporter
+Liagases carbon-carbon bonds	Ligases that form carbon-carbon bonds
+Iron acquitions	Iron acquisition
+spore	Spore
+RNA Metabolism	RNA metabolism
+Persister Cells	Persister cells
+Nitrogen Metabolism in Aspergillus nidulans	Nitrogen metabolism

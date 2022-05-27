@@ -1,0 +1,113 @@
+family	clusterID
+Protein biosynthesis	0
+Proline and 4-hydroxyproline	0
+Pyridoxine	0
+Protein secretion system, Type II	0
+Alanine, serine, and glycine	0
+Nitrate and nitrite ammonification	0
+Liagases	0
+Transcription	0
+Orphan regulatory proteins	0
+Thiamin biosynthesis	0
+Flagellar motility in Prokaryota	0
+Protein processing and modification	0
+Inorganic sulfur assimilation	0
+Polyhydroxybutyrate metabolism	1
+RNA processing and modification	1
+DNA repair	1
+Murein Hydrolases	1
+Two cell division clusters relating to chromosome partitioning	1
+Periplasmic Stress	1
+Electron accepting reactions	1
+DNA uptake, competence	1
+Respiration-Biogenesis	1
+Capsular and extracellular polysacchrides	1
+Phosphate transporter and PHO regulon	1
+Coenzyme A	1
+Peptidoglycan Biosynthesis	1
+Quinone cofactors	2
+Tetrapyrroles	2
+Bacterial Cytoskeleton	2
+Histidine Metabolism	2
+Cell division general	2
+Social motility and nonflagellar swimming in bacteria	2
+Potassium homeostasis	2
+Heat shock	2
+Aromatic amino acids and derivatives	2
+Uni- Sym- and Antiporters	2
+Bacterial Chemotaxis	2
+Central carbohydrate metabolism	3
+Osmotic stress	3
+Restriction-Modification System	3
+Ammonia assimilation	3
+Stress- Flavohaemoglobin	3
+Electron transport and photophosphorylation	3
+ATP synthases	3
+CO2 fixation	3
+Arginine; urea cycle, polyamines	3
+TCA Cycle	3
+Pyrimidines	3
+DMSP associated	4
+One-carbon Metabolism	4
+Ligases	4
+stress- hemoglobins	4
+sulfur general	4
+Electron donating reactions	4
+Oxidative stress	4
+Iron transport	4
+Di- and oligosaccharides	4
+Fe-S clusters	4
+Protein and nucleoprotein secretion system, Type IV	4
+Glutathione-regulated potassium-efflux system and associated functions	5
+Glutamine, glutamate, aspartate, asparagine; ammonia assimilation	5
+NAD and NADP	5
+Lysine, threonine, methionine, and cysteine	5
+Detoxification	5
+Branched-chain amino acids	5
+Gram-Negative cell wall components	5
+Virulence	5
+Lipoic acid	5
+Protein secretion system, Type VI	5
+Phage family-specific subsystems	6
+ABC transporters	6
+Ton and Tol transport systems	6
+Isoprenoids	6
+Resistance to antibiotics	6
+Iron acquisition	6
+Creatine and Creatinine Degradation	6
+Ribonucleotide reduction	6
+Phages, Prophages	6
+Purines	7
+Folate and pterines	7
+Metabolism of central aromatic intermediates	7
+Resistance to toxic compounds	7
+Macromolecular synthesis operon	7
+Transcriptional regulation	7
+Organic acids	7
+Formate hydrogenase	7
+Stress general 	8
+Respiration general	8
+Organic sulfur assimilation	8
+Protein folding	9
+Peripheral pathways for catabolism of aromatic compounds	9
+Fatty acids	10
+Selenoproteins	10
+Protein degradation	11
+DNA replication	12
+Regulation and Cell signaling	13
+Phosphate metabolism	14
+Monosaccharides	15
+Biotin	16
+Phospholipids	17
+Fermentation	18
+Sugar alcohols	19
+Riboflavin, FMN, FAD	20
+Polysaccharides	21
+Metabolite repair	22
+Type III, Type IV, Type VI, ESAT secretion systems	23
+Transport of metals	24
+Thioredoxin-disulfide reductase	25
+Lyases	26
+Aminosugars	27
+Bacteriocins, ribosomally synthesized antibacterial peptides	28
+Nucleosides general	29
